@@ -36,5 +36,3 @@ Here are ideas of how these reports will be used:
 Note: You are to use the company's standard colors across your reports. You will find the Logo and Color guides in the Assets Folder you can download in the next lesson.
 
 
-7.	Actual Revenue Achievement by Sales Team
-8.	Revenue and Volume Achievement by Product.
