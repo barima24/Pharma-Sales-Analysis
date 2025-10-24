@@ -33,6 +33,6 @@ Here are ideas of how these reports will be used:
 1.	The Sales Representative can track their performances through-out the periods to plan their marketing activities.
 2.	The Team Managers can track their teams' performances through-out the periods to plan their teams' activities.
 3.	Executive team can track Revenue numbers to monitor alignment with the set targets to influence medium to long term strategies.
-Note: You are to use the company's standard colors across your reports. You will find the Logo and Color guides in the Assets Folder you can download in the next lesson.
+
 
 
