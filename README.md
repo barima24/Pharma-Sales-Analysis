@@ -35,4 +35,31 @@ Here are ideas of how these reports will be used:
 3.	Executive team can track Revenue numbers to monitor alignment with the set targets to influence medium to long term strategies.
 
 
+<img width="1248" height="822" alt="image" src="https://github.com/user-attachments/assets/c5337196-9195-4a1c-a5ab-4bca1fbc6482" />
+
+
+<img width="1232" height="826" alt="image" src="https://github.com/user-attachments/assets/fc03e16e-316c-406f-8d8c-fdb63a70b2e9" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
